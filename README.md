@@ -1,3 +1,3 @@
 # template-project
 
-Week 3 homework 
+week 3 homework 
